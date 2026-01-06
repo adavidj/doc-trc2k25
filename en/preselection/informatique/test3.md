@@ -310,7 +310,7 @@ Tele-operation consists of publishing `geometry_msgs/Twist` messages on the robo
    ```
 
 6. **Direct access to modern TekBot tele-operation interface**:
-   👉 [TekBot tele-operation interface](index.html)
+   *(Interface to be developed - see ROS2 documentation for examples)*
 
 7. **Launch local web server**:
    ```

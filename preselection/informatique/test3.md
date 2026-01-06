@@ -310,7 +310,7 @@ La télé-opération consiste à publier des messages `geometry_msgs/Twist` sur 
    ```
 
 6. **Accès direct à la téléopération web moderne** :
-   👉 [interface de téléopération TekBot](index.html)
+   *(Interface à développer - voir documentation ROS2 pour les exemples)*
 
 7. **Lancer un serveur web local** :
    ```
