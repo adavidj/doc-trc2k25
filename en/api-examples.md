@@ -39,11 +39,18 @@ Teamwork is at the heart of our success.
 We push the boundaries of African robotics.
 :::
 
-## Contact
+## About the Dofbot
 
-For any questions or collaboration :
-- **Email** : ucaotech@gmail.com
-- **GitHub** : [UCAO-TECH Organization](https://github.com/TekBot-Robotics-Challenge/2025-Team-UCAO-TECH-Docs)
+The Dofbot is a 6DOF robotic arm used for the sorting phase of the challenge.
+
+### Features
+- 6 degrees of freedom
+- Positioning precision
+- ROS2 compatible
+
+### Usage
+- Automatic waste sorting
+- Object manipulation
 
 ## Partners
 

@@ -39,11 +39,18 @@ Le travail d'équipe est au cœur de notre succès.
 Nous repoussons les limites de la robotique africaine.
 :::
 
-## Contact
+## À propos du Dofbot
 
-Pour toute question ou collaboration :
-- **Email** : ucaotech@gmail.com
-- **GitHub** : [UCAO-TECH Organization](https://github.com/TekBot-Robotics-Challenge/2025-Team-UCAO-TECH-Docs)
+Le Dofbot est un robot manipulateur 6DOF utilisé pour la phase de tri du challenge.
+
+### Caractéristiques
+- 6 degrés de liberté
+- Précision de positionnement
+- Compatible ROS2
+
+### Utilisation
+- Tri automatique des déchets
+- Manipulation d'objets
 
 ## Partenaires
 
