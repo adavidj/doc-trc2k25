@@ -9,7 +9,7 @@ hero:
   actions:
     - theme: brand
       text: Découvrir le projet
-      link: /markdown-examples
+      link: /preselection/informatique/test1
     - theme: alt
       text: Voir l'équipe
       link: /api-examples
