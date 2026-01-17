@@ -202,13 +202,13 @@ void loop() {
 ## 🎥 Vidéos de démonstration
 
 - **Démonstration principale**  
-  https://www.youtube.com/watch?v=3eNkmmQ-iXk
+ [Démonstration principale](https://www.youtube.com/watch?v=3eNkmmQ-iXk)
 
 - **Test des axes**  
-  https://www.youtube.com/watch?v=REr67c1P6QY
+  [Test des axes](https://www.youtube.com/watch?v=REr67c1P6QY)
 
 - **Fonctionnement en temps réel**  
-  https://www.youtube.com/watch?v=27L5mn_YXMU
+  [Fonctionnement en temps réel](https://www.youtube.com/watch?v=27L5mn_YXMU)
 
 ---
 

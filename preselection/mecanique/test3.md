@@ -44,7 +44,7 @@ L’objectif principal est de modéliser une pièce à partir de dimensions vari
 
 **🖼️ Visualisation de la pièce – Question A**
 
-![Pièce A](Images/question\ a.png)
+![Pièce A](/images_mecanique/test3/question%20a.png)
 
 ---
 
@@ -56,7 +56,7 @@ L’objectif principal est de modéliser une pièce à partir de dimensions vari
 
 **🖼️ Visualisation de la pièce – Question B**
 
-![Pièce B](Images/question\ b.png)
+![Pièce B](/images_mecanique/test3/question%20b.png)
 
 ---
 
@@ -68,7 +68,7 @@ L’objectif principal est de modéliser une pièce à partir de dimensions vari
 
 **🖼️ Visualisation de la pièce – Question C**
 
-![Pièce C](Images/question\ c.png)
+![Pièce C](/images_mecanique/test3/question%20c.png)
 
 ---
 
@@ -78,7 +78,7 @@ L’objectif principal est de modéliser une pièce à partir de dimensions vari
 
 Contient l’ensemble des fichiers SOLIDWORKS relatifs au test avancé.
 
-[📦 Télécharger les fichiers SOLIDWORKS](SolidWorks/Test3.TRC.MC.zip)
+[📦 Télécharger les fichiers SOLIDWORKS](/images_mecanique/test3/SolidWorks/Test3.TRC.MC.zip)
 
 ---
 

@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base: '/trc2k25/',
+  base: '/doc-trc2k25/',
   locales: {
     root: {
       label: 'Français',

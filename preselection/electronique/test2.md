@@ -74,21 +74,21 @@ Les circuits ont été conçus avec KiCad pour chaque sous-système du projet.
 
 ### Schéma d'alimentation
 
-![Schéma d'alimentation](/public/images_electronique/test2/IMG_Circuit_Alimentation.PNG)
+![Schéma d'alimentation](/images_electronique/test2/IMG_Circuit_Alimentation.PNG)
 
 ### Schéma de la boîte noire
 
-![Schéma boîte noire](/public/images_electronique/test2/img_Circuit_Boite_Noire.PNG)
+![Schéma boîte noire](/images_electronique/test2/img_Circuit_Boite_Noire.PNG)
 
 ### Schéma de la station de contrôle
 
-![Schéma station de contrôle](/public/images_electronique/test2/img_Circuit_Station.PNG)
+![Schéma station de contrôle](/images_electronique/test2/img_Circuit_Station.PNG)
 
 ### Téléchargement des fichiers KiCad
 
 Téléchargez tous les fichiers sources KiCad incluant les schémas et les PCB du projet:
 
-[📥 Télécharger le dossier KiCad complet (RAR)](/public/Schemas/Circuit_electronique_test2.rar)
+[📥 Télécharger le dossier KiCad complet (RAR)](https://github.com/TekBot-Robotics-Challenge/2025-Team-UCAO-TECH-Docs/blob/main/Electronique/Test2/Schemas/Circuit_electronique_test2.rar)
 
 ---
 
@@ -138,7 +138,7 @@ Le module **MPU6050** n'étant pas disponible dans la bibliothèque officielle P
 
 ### Téléchargement du dossier de simulation
 
-[📥 Télécharger le projet de simulation (.zip)](/public/Codes/Code_Source_Simulation.rar)
+[📥 Télécharger le projet de simulation (.rar)](https://github.com/TekBot-Robotics-Challenge/2025-Team-UCAO-TECH-Docs/blob/main/Electronique/Test2/Codes/Code_Source_Simulation.rar)
 
 ### Vidéo de démonstration de simulation
 
@@ -372,7 +372,7 @@ Bien que la simulation dans Proteus soit proche de la réalité, certaines diff�
 
 Une vidéo montrant le fonctionnement du système dans la réalité est disponible ici:
 
-[📹 Voir la vidéo de démonstration](Videos/Demo_Test2.mp4)
+[📹 Voir la vidéo de démonstration](/images_electronique/test2/Videos/VideoSimulation.mp4)
 
 ---
 

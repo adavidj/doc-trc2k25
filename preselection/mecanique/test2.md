@@ -28,7 +28,7 @@ Toute la modélisation est effectuée dans l’environnement **MMGS** (millimèt
 
 **🖼️ Visualisation de la pièce**
 
-![Partie 1(a)](Images/partie1(a).png)
+![Partie 1(a)](/images_mecanique/test2/partie1(a).png)
 
 ### b) Paramètres : A = 84,00 ; B = 59,00 ; C = 45,00
 
@@ -37,7 +37,7 @@ Toute la modélisation est effectuée dans l’environnement **MMGS** (millimèt
 
 **🖼️ Visualisation de la pièce**
 
-![Partie 1(b)](Images/partie1(b).png)
+![Partie 1(b)](/images_mecanique/test2/partie1(b).png)
 
 ### Fonctions utilisées
 
@@ -56,7 +56,7 @@ Toute la modélisation est effectuée dans l’environnement **MMGS** (millimèt
 
 **🖼️ Visualisation de la pièce**
 
-![Partie 2](Images/partie\ 2.png)
+![Partie 2](/images_mecanique/test2/partie%202.png)
 
 ---
 
@@ -69,7 +69,7 @@ Toute la modélisation est effectuée dans l’environnement **MMGS** (millimèt
 
 **🖼️ Visualisation de la pièce**
 
-![Partie 3](Images/partie\ 3.png)
+![Partie 3](/images_mecanique/test2/partie%203.png)
 
 ---
 
@@ -90,7 +90,7 @@ Toute la modélisation est effectuée dans l’environnement **MMGS** (millimèt
 
 **🖼️ Visualisation de l’assemblage**
 
-![Assemblage A](Images/assemblage\ capture\ .png)
+![Assemblage A](/images_mecanique/test2/assemblage%20capture%20.png)
 
 ### Cas b)
 
@@ -103,7 +103,7 @@ Toute la modélisation est effectuée dans l’environnement **MMGS** (millimèt
 
 **🖼️ Visualisation de l’assemblage**
 
-![Assemblage B](Images/assemblage\ capture\ b\ .png)
+![Assemblage B](/images_mecanique/test2/assemblage%20capture%20b%20.png)
 
 ---
 
@@ -115,7 +115,7 @@ Tous les fichiers SOLIDWORKS de ce projet sont regroupés dans une archive ZIP p
 
 Contient toutes les pièces et tous les assemblages.
 
-[📦 Télécharger les fichiers SOLIDWORKS](SolidWorks/test2.zip)
+[📦 Télécharger les fichiers SOLIDWORKS](/images_mecanique/test2/SolidWorks/test2.zip)
 
 ### 📁 Contenu de l’archive
 
@@ -137,7 +137,7 @@ Pour ce défi, la pièce a été modélisée en utilisant des fonctions de base 
 
 **🖼️ Vue 3D de la pièce du défi**
 
-![Pièce du défi](Images/pièce.jpg)
+![Pièce du défi](/images_mecanique/test2/pièce.jpg)
 
 ---
 

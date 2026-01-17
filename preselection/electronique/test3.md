@@ -9,7 +9,7 @@ Afficheur 7 segments mécanique réinventé à l'aide de servomoteurs - Une fusi
 
 Dans un monde dominé par les écrans numériques et les LED, le Tekbot Robotic Challenge 2025 lance un défi audacieux: réinventer l'afficheur 7 segments en lui donnant une âme mécanique.
 
-![Concept initial](../../public/images_electronique/test3/image1.jpg)
+![Concept initial](/images_electronique/test3/image1.jpg)
 
 **Origine du projet:** TEKBOT ROBOTIC CHALLENGE 2025
 
@@ -46,16 +46,16 @@ Dans un monde dominé par les écrans numériques et les LED, le Tekbot Robotic 
 
 ### Schéma électronique
 
-![Schéma électronique complet](Images/circuit.PNG)
+![Schéma électronique complet](/images_electronique/test3/circuit.PNG)
 
 **Description:**
 - Protection contre la surcharge
 - Connexion directe des servos aux broches PWM
 - Circuit de réinitialisation avec bouton poussoir
 
-![Schéma physique 1](Images/image2.jpg)
+![Schéma physique 1](/images_electronique/test3/image2.jpg)
 
-![Schéma physique 2](Images/image3.jpg)
+![Schéma physique 2](/images_electronique/test3/image3.jpg)
 
 ### Alimentation
 
@@ -67,9 +67,9 @@ Le système d'alimentation comprend:
 
 ### Réalisation du PCB
 
-![PCB vue avant](Images/pcb_test3_front.PNG)
+![PCB vue avant](/images_electronique/test3/pcb_test3_front.PNG)
 
-![PCB vue arrière](Images/pcb_test3_back.PNG)
+![PCB vue arrière](/images_electronique/test3/pcb_test3_back.PNG)
 
 **Caractéristiques:**
 - Conçu avec KiCad
@@ -77,7 +77,7 @@ Le système d'alimentation comprend:
 - Pistes de 0.6 mm
 - Espacement optimisé pour les connecteurs
 
-[📥 Télécharger les fichiers PCB](Kicad/7seg_circuit_electronique.rar)
+[📥 Télécharger les fichiers PCB](https://github.com/TekBot-Robotics-Challenge/2025-Team-UCAO-TECH-Docs/blob/main/Electronique/Test3/Kicad/7seg_circuit_electronique.rar)
 
 ### Code Arduino
 

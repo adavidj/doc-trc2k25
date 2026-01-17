@@ -140,7 +140,7 @@ Projet CAO complet avec toutes les pièces et assemblages :
 - Dessins techniques et spécifications
 - Simulations d'études de mouvement
 
-[📥 Télécharger les Fichiers SolidWorks](Mecanique/Assemblage.rar)
+[📥 Télécharger les Fichiers SolidWorks](https://github.com/TekBot-Robotics-Challenge/2025-Team-UCAO-TECH-Docs/blob/main/Test_Final/Mecanique/Assemblage.rar)
 
 ### Fichiers d'Impression 3D
 
@@ -150,7 +150,7 @@ Fichiers STL prêts à l'impression pour tous les composants :
 - Directives d'impression incluses
 - Instructions d'assemblage
 
-[📥 Télécharger les Fichiers STL](Mecanique/Fichier_Imp3D.zip)
+[📥 Télécharger les Fichiers STL](https://github.com/TekBot-Robotics-Challenge/2025-Team-UCAO-TECH-Docs/blob/main/Test_Final/Mecanique/Fichier_Imp3D.rar)
 
 ### Notes Importantes
 
@@ -163,7 +163,7 @@ Fichiers STL prêts à l'impression pour tous les composants :
 
 ### Démonstration du Prototype
 
-[Regarder le système de convoyeur en fonctionnement](Mecanique/video_demo.mp4)
+[Regarder le système de convoyeur en fonctionnement](/images_mecanique/test-final/Mecanique/video.mp4)
 
 ### Résultats des Tests
 

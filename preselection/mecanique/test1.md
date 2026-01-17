@@ -130,33 +130,33 @@ La tige est **complètement sortie**, correspondant à l’état **pince ouverte
 
 | Vue 2D | Vue 3D |
 |-------|--------|
-| ![Pièce 1 2D](Images/Pièce1_2D.PNG) | ![Pièce 1 3D](Images/Pièce1_3D.PNG) |
+| ![Pièce 1 2D](/images_mecanique/test1/Pièce1_2D.PNG) | ![Pièce 1 3D](/images_mecanique/test1/Pièce1_3D.PNG) |
 
 ### Pièce 2
 
 | Vue 2D | Vue 3D |
 |-------|--------|
-| ![Pièce 2 2D](Images/Pièce2_2D3.PNG) | ![Pièce 2 3D](Images/Pièce2_3D.PNG) |
+| ![Pièce 2 2D](/images_mecanique/test1/Pièce2_2D3.PNG) | ![Pièce 2 3D](/images_mecanique/test1/Pièce2_3D.PNG) |
 
 ### Pièce 3
 
 | Vue 2D | Vue 3D |
 |-------|--------|
-| ![Pièce 3 2D](Images/Pièce3_2D1.PNG) | ![Pièce 3 3D](Images/Pièce3_3D.PNG) |
+| ![Pièce 3 2D](/images_mecanique/test1/Pièce3_2D1.PNG) | ![Pièce 3 3D](/images_mecanique/test1/Pièce3_3D.PNG) |
 
 ### Pièce 4
 
 | Vue 2D | Vue 3D |
 |-------|--------|
-| ![Pièce 4 2D](Images/Pièce4_2D2.PNG) | ![Pièce 4 3D](Images/Pièce44_3D.PNG) |
+| ![Pièce 4 2D](/images_mecanique/test1/Pièce4_2D2.PNG) | ![Pièce 4 3D](/images_mecanique/test1/Pièce44_3D.PNG) |
 
 ### Assemblage final
 
-![Assemblage complet](Images/Assemblage.PNG)
+![Assemblage complet](/images_mecanique/test1/Assemblage.PNG)
 
 ### Fichiers source SolidWorks 2025
 
-- [Télécharger les fichiers source](SolidWorks/Test1.rar)
+- [Télécharger les fichiers source](https://github.com/TekBot-Robotics-Challenge/2025-Team-UCAO-TECH-Docs/blob/main/Mecanique/Test1/SolidWorks/Test1.rar)
 
 > Ces éléments visuels facilitent la lecture technique du projet et servent de preuve de modélisation dans le cadre du TRC2K25.
 
