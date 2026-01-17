@@ -12,7 +12,7 @@ export default defineConfig({
       themeConfig: {
         nav: [
           { text: 'Accueil', link: 'https://tekbot-robotics-challenge.github.io/2025-Team-UCAO-TECH-Docs/', target: '_self' },
-          {text: 'GitHub', link: 'https://github.com/TekBot-Robotics-Challenge/2025-Team-UCAO-TECH-Docs'},
+          {text: 'Projet sur GitHub', link: 'https://github.com/TekBot-Robotics-Challenge/2025-Team-UCAO-TECH-Docs'},
         ],
         
         sidebar: [
@@ -95,7 +95,7 @@ export default defineConfig({
       themeConfig: {
         nav: [
           { text: 'Home', link: 'https://tekbot-robotics-challenge.github.io/2025-Team-UCAO-TECH-Docs', target: '_self'},
-          {text: 'GitHub', link: 'https://github.com/TekBot-Robotics-Challenge/2025-Team-UCAO-TECH-Docs'}
+          {text: 'Project on GitHub', link: 'https://github.com/TekBot-Robotics-Challenge/2025-Team-UCAO-TECH-Docs'}
         ],
         sidebar: [
           {
@@ -173,7 +173,10 @@ export default defineConfig({
   themeConfig: {
     search: {
       provider: 'local'
-    }
+    },
+    head: [
+      ['style', {}, '.VPNavBar .language .icon { display: none; }']
+    ]
   },
   markdown: {
     math: true
