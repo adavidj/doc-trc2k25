@@ -1,4 +1,4 @@
-# Test 1: SolidWorks CAD – Beginner Level
+# Test 1 Mechanical: SolidWorks CAD – Beginner Level
 
 Assessment of fundamental skills in **Computer-Aided Design (CAD)** through 3D part modeling and mechanical assembly under SolidWorks.
 

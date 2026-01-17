@@ -1,4 +1,4 @@
-# Test 1 : CAO SolidWorks – Niveau Débutant
+# Test 1 Mécanique : CAO SolidWorks – Niveau Débutant
 
 Évaluation des compétences fondamentales en **Conception Assistée par Ordinateur (CAO)** à travers la modélisation de pièces 3D et l’assemblage mécanique sous SolidWorks.
 

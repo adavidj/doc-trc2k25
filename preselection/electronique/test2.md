@@ -1,4 +1,4 @@
-# Test 2: Communication Test - La boîte noire
+# Test 2 Electronique: Communication Test - La boîte noire
 
 Système d'enregistrement et de transmission de données de mouvement en temps réel à l'aide du capteur MPU6050 dans une enceinte cubique.
 

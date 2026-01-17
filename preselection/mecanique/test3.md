@@ -1,4 +1,4 @@
-# Test 3 : CAO SolidWorks – Niveau Avancé
+# Test 3 Mécanique : CAO SolidWorks – Niveau Avancé
 
 Modélisation paramétrique experte et conception mécanique complexe sous SolidWorks dans le cadre du **Tekbot Robotics Challenge 2025**.
 

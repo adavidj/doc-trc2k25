@@ -1,4 +1,4 @@
-# Test 2: Communication Test - The Black Box
+# Test 2 ELectronic: Communication Test - The Black Box
 
 Real-time motion data recording and transmission system using the MPU6050 sensor in a cubic enclosure.
 

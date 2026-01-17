@@ -1,4 +1,4 @@
-# Test 1 – Creating a class for a robot
+# Test 1 IT – Creating a class for a robot
 
 This test focuses on the design, implementation, and documentation of an object-oriented architecture around a main **Robot** class, which serves as the foundation for all robotic developments in the TEKBOT project.
 

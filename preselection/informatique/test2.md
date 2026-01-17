@@ -2,7 +2,7 @@
 outlineImage: /images/test2/ros2.jpeg
 ---
 
-# Test 2 : Introduction à ROS2
+# Test 2 IT: Introduction à ROS2
 
 ## 1. Introduction et objectifs
 

@@ -1,4 +1,4 @@
-# Test 3: Output Test - Mechanical 7-segment display with servomotors
+# Test 3 Electronic: Output Test - Mechanical 7-segment display with servomotors
 
 Mechanical 7-segment display reinvented using servomotors - A fusion of digital logic and mechanical movement.
 

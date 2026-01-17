@@ -2,7 +2,7 @@
 outlineImage: /images/test3/robot_et_labyrinthe.png
 ---
 
-# Test 3 : Création d'un algorithme de pathfinding
+# Test 3 IT : Création d'un algorithme de pathfinding
 
 ## 1. Contexte
 

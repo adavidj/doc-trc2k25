@@ -1,4 +1,4 @@
-# Test 3: SolidWorks CAD – Advanced Level
+# Test 3 Mechanical: SolidWorks CAD – Advanced Level
 
 Expert parametric modeling and complex mechanical design under SolidWorks as part of the **Tekbot Robotics Challenge 2025**.
 

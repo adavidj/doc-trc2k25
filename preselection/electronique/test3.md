@@ -1,4 +1,4 @@
-# Test 3: Test de sortie - Afficheur 7 segments mécanique avec servomoteurs
+# Test 3 Electronique: Test de sortie - Afficheur 7 segments mécanique avec servomoteurs
 
 Afficheur 7 segments mécanique réinventé à l'aide de servomoteurs - Une fusion de la logique numérique et du mouvement mécanique.
 

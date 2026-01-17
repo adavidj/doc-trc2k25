@@ -1,4 +1,4 @@
-# Test 2 : CAO SolidWorks – Niveau Intermédiaire
+# Test 2 Mécanique: CAO SolidWorks – Niveau Intermédiaire
 
 Conception mécanique avancée et modélisation paramétrique sous SolidWorks dans le cadre du **Tekbot Robotics Challenge 2025**.
 

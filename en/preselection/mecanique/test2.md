@@ -1,4 +1,4 @@
-# Test 2: SolidWorks CAD – Intermediate Level
+# Test 2 Mechanical: SolidWorks CAD – Intermediate Level
 
 Advanced mechanical design and parametric modeling under SolidWorks as part of the **Tekbot Robotics Challenge 2025**.
 

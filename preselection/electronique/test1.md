@@ -1,4 +1,4 @@
-# Test 1: Capteur d'entrée - Gyroscope et Accéléromètre
+# Test 1 Electronique: Capteur d'entrée - Gyroscope et Accéléromètre
 
 Détection d'orientation avec accéléromètre et gyroscope MPU6050 - Conversion des grandeurs physiques en signaux électriques exploitables.
 

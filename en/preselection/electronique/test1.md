@@ -1,4 +1,4 @@
-# Test 1: Input Sensor - Gyroscope and Accelerometer
+# Test 1 Electronic: Input Sensor - Gyroscope and Accelerometer
 
 Detection of orientation with accelerometer and gyroscope MPU6050 - Conversion of physical quantities into exploitable electrical signals.
 

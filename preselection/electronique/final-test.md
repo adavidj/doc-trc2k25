@@ -1,4 +1,4 @@
-# Test Final : Système de convoyeur intelligent
+# Test Final Electronique : Système de convoyeur intelligent
 
 Intégration des concepts électroniques pour un système de convoyeur de tri automatisé avec détection d'objets et tri par couleur.
 
