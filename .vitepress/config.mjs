@@ -23,30 +23,30 @@ export default defineConfig({
                 text: 'Informatique', 
                 collapsed: false,
                 items: [
-                  { text: 'Test 1 : Création d’une classe pour un Robot', link: '/preselection/informatique/test1' },
-                  { text: 'Test 2 : Introduction à ROS2', link: '/preselection/informatique/test2' },
-                  { text: 'Test 3 : Création d’un Algorithme de Pathfinding', link: '/preselection/informatique/test3' },
-                  { text: 'Test Final : Système de convoyeur', link: '/preselection/informatique/final-test' },
+                  { text: 'Test 1 IT : Création d’une classe pour un Robot', link: '/preselection/informatique/test1' },
+                  { text: 'Test 2 IT : Introduction à ROS2', link: '/preselection/informatique/test2' },
+                  { text: 'Test 3 IT : Création d’un Algorithme de Pathfinding', link: '/preselection/informatique/test3' },
+                  { text: 'Test Final IT : Système de convoyeur', link: '/preselection/informatique/final-test' },
                 ]
               },
               { 
                 text: 'Électronique', 
                 collapsed: false,
                 items: [
-                  { text: 'Test 1 : Gyroscope et accéléromètre', link: '/preselection/electronique/test1' },
-                  { text: 'Test 2 : La boîte noire', link: '/preselection/electronique/test2' },
-                  { text: 'Test 3 : Afficheur 7 segments', link: '/preselection/electronique/test3' },
-                  { text: 'Test Final : Système de convoyeur', link: '/preselection/electronique/final-test' },
+                  { text: 'Test 1 ELTs : Gyroscope et accéléromètre', link: '/preselection/electronique/test1' },
+                  { text: 'Test 2 ELTs : La boîte noire', link: '/preselection/electronique/test2' },
+                  { text: 'Test 3 ELTs : Afficheur 7 segments', link: '/preselection/electronique/test3' },
+                  { text: 'Test Final ELTs : Système de convoyeur', link: '/preselection/electronique/final-test' },
                 ]
               },
               { 
                 text: 'Mécanique', 
                 collapsed: false,
                 items: [
-                  { text: 'Test 1 : Niveau Débutant', link: '/preselection/mecanique/test1' },
-                  { text: 'Test 2 : Niveau Intermédiaire', link: '/preselection/mecanique/test2' },
-                  { text: 'Test 3 : Niveau Avancé', link: '/preselection/mecanique/test3' },
-                  { text: 'Test Final : Système de convoyeur', link: '/preselection/mecanique/final-test' },
+                  { text: 'Test 1 MECs : Niveau Débutant', link: '/preselection/mecanique/test1' },
+                  { text: 'Test 2 MECs : Niveau Intermédiaire', link: '/preselection/mecanique/test2' },
+                  { text: 'Test 3 MECs : Niveau Avancé', link: '/preselection/mecanique/test3' },
+                  { text: 'Test Final MECs : Système de convoyeur', link: '/preselection/mecanique/final-test' },
                 ]
               }
             ]
@@ -105,30 +105,30 @@ export default defineConfig({
                 text: 'IT', 
                 collapsed: false,
                 items: [
-                  { text: 'Test 1: Creating a class for a Robot', link: '/en/preselection/informatique/test1' },
-                  { text: 'Test 2: Introduction to ROS2', link: '/en/preselection/informatique/test2' },
-                  { text: 'Test 3: Creating a Pathfinding Algorithm', link: '/en/preselection/informatique/test3' },
-                  { text: 'Final Test: Conveyor System', link: '/en/preselection/informatique/final-test' }
+                  { text: 'Test 1 IT: Creating a class for a Robot', link: '/en/preselection/informatique/test1' },
+                  { text: 'Test 2 IT: Introduction to ROS2', link: '/en/preselection/informatique/test2' },
+                  { text: 'Test 3 IT: Creating a Pathfinding Algorithm', link: '/en/preselection/informatique/test3' },
+                  { text: 'Final Test IT: Conveyor System', link: '/en/preselection/informatique/final-test' }
                 ]
               },
               { 
                 text: 'Electronics', 
                 collapsed: false,
                 items: [
-                  { text: 'Test 1: Gyroscope and accelerometer', link: '/en/preselection/electronique/test1' },
-                  { text: 'Test 2: The black box', link: '/en/preselection/electronique/test2' },
-                  { text: 'Test 3: 7-segment display', link: '/en/preselection/electronique/test3' },
-                  { text: 'Final Test: Conveyor System', link: '/en/preselection/electronique/final-test' }
+                  { text: 'Test 1 ELTs: Gyroscope and accelerometer', link: '/en/preselection/electronique/test1' },
+                  { text: 'Test 2 ELTs: The black box', link: '/en/preselection/electronique/test2' },
+                  { text: 'Test 3 ELTs: 7-segment display', link: '/en/preselection/electronique/test3' },
+                  { text: 'Final Test ELTs: Conveyor System', link: '/en/preselection/electronique/final-test' }
                 ]
               },
               { 
                 text: 'Mechanics', 
                 collapsed: false,
                 items: [
-                  { text: 'Test 1: Beginner Level', link: '/en/preselection/mecanique/test1' },
-                  { text: 'Test 2: Intermediate Level', link: '/en/preselection/mecanique/test2' },
-                  { text: 'Test 3: Advanced Level', link: '/en/preselection/mecanique/test3' },
-                  { text: 'Final Test: Conveyor System', link: '/en/preselection/mecanique/final-test' }
+                  { text: 'Test 1 MECs: Beginner Level', link: '/en/preselection/mecanique/test1' },
+                  { text: 'Test 2 MECs: Intermediate Level', link: '/en/preselection/mecanique/test2' },
+                  { text: 'Test 3 MECs: Advanced Level', link: '/en/preselection/mecanique/test3' },
+                  { text: 'Final Test MECs: Conveyor System', link: '/en/preselection/mecanique/final-test' }
                 ]
               }
             ]
