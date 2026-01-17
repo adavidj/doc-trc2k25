@@ -11,8 +11,10 @@ export default defineConfig({
       description: 'Documentation du projet TRC 2025 - Équipe UCAO-TECH Bénin',
       themeConfig: {
         nav: [
-          { text: 'Accueil', link: '/' }
+          { text: 'Accueil', link: 'https://tekbot-robotics-challenge.github.io/2025-Team-UCAO-TECH-Docs/' },
+          {text: 'GitHub', link: 'https://github.com/TekBot-Robotics-Challenge/2025-Team-UCAO-TECH-Docs'},
         ],
+        
         sidebar: [
           {
             text: 'Pre-selection',
@@ -92,8 +94,8 @@ export default defineConfig({
       description: 'TRC 2025 Project Documentation - UCAO-TECH Benin Team',
       themeConfig: {
         nav: [
-          { text: 'Home', link: '/en/' },
-          {text: 'GitHub Doc', link: 'https://github.com/TekBot-Robotics-Challenge/2025-Team-UCAO-TECH-Docs'}
+          { text: 'Home', link: 'https://tekbot-robotics-challenge.github.io/2025-Team-UCAO-TECH-Docs'},
+          {text: 'GitHub', link: 'https://github.com/TekBot-Robotics-Challenge/2025-Team-UCAO-TECH-Docs'}
         ],
         sidebar: [
           {

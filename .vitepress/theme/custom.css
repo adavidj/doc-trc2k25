@@ -17,4 +17,9 @@
   --vp-c-brand-3: #16a34a;
   --vp-c-brand-soft: rgba(74, 222, 128, 0.14);
 }
+
+.VPNavBar .VPNavBarMenu .VPNavBarMenuLink .icon {
+  display: none;
+}
+
 .VPDocAside { overflow-y: auto; max-height: calc(100vh - var(--vp-nav-height)); }
