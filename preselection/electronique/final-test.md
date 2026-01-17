@@ -16,7 +16,7 @@ Ce document présente l'implémentation électronique du système de convoyeur i
 - **Moteur pas à pas 12V + L298N** - Mouvement du convoyeur
 - **Servomoteur** - Mécanisme de tri
 
-![Vue d'ensemble du système électronique](Electronique/img_ensemble.png)
+![Vue d'ensemble du système électronique](/images_electronique/test-final/img_ensemble.png)
 
 **Fig. 1 - Vue d'ensemble du système électronique**
 
@@ -26,7 +26,7 @@ Ce document présente l'implémentation électronique du système de convoyeur i
 
 ### Diagramme fonctionnel
 
-![Diagramme fonctionnel](Electronique/diagramm.png)
+![Diagramme fonctionnel](/images_electronique/test-final/diagramm.png)
 
 ### Description fonctionnelle
 
@@ -81,7 +81,7 @@ Ce document présente l'implémentation électronique du système de convoyeur i
 
 ### Circuit d'alimentation principal
 
-![Circuit d'alimentation](Images/Electronique/Circuit_alimentation.PNG)
+![Circuit d'alimentation](/images_electronique/test-final/Circuit%20alimentation.PNG)
 
 **Fig. 3 - Schéma du circuit d'alimentation**
 
@@ -100,7 +100,7 @@ Ce circuit fournit les tensions nécessaires pour tous les composants:
 
 ### Schéma fonctionnel complet
 
-![Schéma bloc d'entrée](Images/Electronique/Circuit_entrée_systeme.PNG)
+![Schéma bloc d'entrée](/images_electronique/test-final/Circuit_entrée_systeme.PNG)
 
 **Fig. 4 - Architecture complète du bloc d'entrée**
 
@@ -110,7 +110,7 @@ Ce circuit fournit les tensions nécessaires pour tous les composants:
 
 ### Architecture centrale
 
-![Schéma bloc de traitement](Images/Electronique/Circuit_bloc_traitement.PNG)
+![Schéma bloc de traitement](/images_electronique/test-final/Circuit_bloc_traitement.PNG)
 
 **Fig. 5 - Schéma fonctionnel du bloc de traitement**
 
@@ -120,7 +120,7 @@ Ce circuit fournit les tensions nécessaires pour tous les composants:
 
 ### Schéma des actionneurs
 
-![Schéma bloc de sortie](Images/Electronique/Circuit_sorti.PNG)
+![Schéma bloc de sortie](/images_electronique/test-final/Circuit_sorti.PNG)
 
 **Fig. 6 - Architecture des systèmes d'actuation**
 
@@ -130,7 +130,7 @@ Ce circuit fournit les tensions nécessaires pour tous les composants:
 
 ### Circuit principal
 
-![Schéma électronique complet](Images/Electronique/img_schematic.PNG)
+![Schéma électronique complet](/images_electronique/test-final/img_schematic.PNG)
 
 **Fig. 7 - Schéma complet du système (cliquer pour agrandir)**
 
@@ -138,25 +138,25 @@ Ce circuit fournit les tensions nécessaires pour tous les composants:
 
 **Disposition PCB**
 
-![Layout PCB](Electronique/img_pcb.PNG)
+![Layout PCB](/images_electronique/test-final/img_pcbb.PNG)
 
 **Fig. 8 - Disposition du PCB**
 
 **Vue couche supérieure**
 
-![PCB vue avant](Electronique/img_3Dpcb_front.png)
+![PCB vue avant](/images_electronique/test-final/img_3Dpcb_front.png)
 
 **Fig. 9 - Vue couche supérieure**
-
+[PCB vue avant](/images_electronique/test-final/img_3Dpcb_back.png)
 ---
 
 ## Prototype physique
 
-![Vue d'ensemble du prototype](Electronique/img_elec1.jpg)
+![Vue d'ensemble du prototype](/images_electronique/test-final/img_elec1.jpg)
 
 **Fig. 11 - Vue d'ensemble du prototype**
 
-![Détails d'interconnexion](Electronique/img_elec2.jpg)
+![Détails d'interconnexion](/images_electronique/test-final/img_elec2.jpg)
 
 **Fig. 12 - Détails d'interconnexion**
 
@@ -329,11 +329,12 @@ void loop() {
 - Test WiFi : Vérifier la transmission de données vers l'interface web
 
 ### Vidéo de démonstration
-[Voir la vidéo de fonctionnement complet du système](#demo-video)
-
+[Voir la vidéo de fonctionnement complet du système](/images_electronique/test-final/video_demo.mp4)
+[Video elec](/images_electronique/test-final/video_elec.mp4)
+[Test de détection](/images_electronique/test-final/test_detection.mp4)
 ### Téléchargements
-- [📥 Projet KiCad complet](#kicad-project)
-- [📥 Fichiers Gerber (PCB)](#gerber-files)
+- [📥 Projet KiCad complet](https://github.com/TekBot-Robotics-Challenge/2025-Team-UCAO-TECH-Docs/blob/main/Test_Final/Electronique/Fichiers/test_final_kicad.rar)
+- [📥 Fichiers Gerber (PCB)](https://github.com/TekBot-Robotics-Challenge/2025-Team-UCAO-TECH-Docs/blob/main/Test_Final/Electronique/Fichiers/gerber_circuit.rars)
 
 ---
 
